@@ -1,6 +1,6 @@
 #!/data/data/com.termux/files/usr/bin/bash
 
-SERVER_URL="https://db2f5df2ef73.ngrok-free.app/upload.php"
+SERVER_URL="{yourportforwordurl}/upload.php"
 TMP_DIR="/data/data/com.termux/files/usr/tmp"
 
 # TMP_DIR फोल्डर बनाएं यदि न हो तो
