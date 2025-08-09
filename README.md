@@ -76,6 +76,8 @@ curl -s -O https://raw.githubusercontent.com/<username>/<reponame>/main/hack.sh 
 - Public में पासवर्ड बदलें  
 - Logs और uploads को सुरक्षित permissions दें  
 - ngrok URL को पब्लिक में शेयर करने से बचें
+- github repo ka Privet kare
+- jisme scipt file hoga termux ke liye use dusare repo banakar script ko termux me run kare
 
 ---
 
