@@ -55,6 +55,7 @@ curl -s -O https://raw.githubusercontent.com/<username>/<reponame>/main/hack.sh 
 ```
 ### Full Guid Github Guru YouTube channel,
 ---
+[![Watch the video](https://img.youtube.com/vi/PG9CpTAIefs/maxresdefault.jpg)](https://youtu.be/PG9CpTAIefs?si=M7Ewq0Wl0ae9hEPx)
 
 ## 🔒 लॉगिन डिटेल्स
 - **Gallery URL:** `https://<ngrok-url>/gallery.php`  
